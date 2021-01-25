@@ -1,0 +1,20 @@
+h2 {
+    color: indigo; 
+}
+p{
+    color:white;
+}
+section{
+    background-color: lightcoral;
+}
+.pCoral{
+    background-color: white;
+}
+/*
+1- Color párrafo.
+2- Fondo header y footer
+3- Alinear imágenes y texto desde section
+
+PLUS!!!
+Si footer y header comparten declaraciones de estilos.... los agrupo?
+*/
